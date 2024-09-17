@@ -19,5 +19,5 @@ To get started with **Attendance Tracker**, follow these steps:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/attendance-tracker.git
+   git clone https://github.com/geeekyvishal/attendance-tracker.git
    cd attendance-tracker
